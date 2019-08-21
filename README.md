@@ -1,3 +1,3 @@
 # My_Student_
 
-HI friend
+HI friend~
