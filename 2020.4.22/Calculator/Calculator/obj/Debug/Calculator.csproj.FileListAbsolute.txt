@@ -1,0 +1,6 @@
+C:\Users\yungj\Desktop\과제\게임 알고리즘\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\yungj\Desktop\과제\게임 알고리즘\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\yungj\Desktop\과제\게임 알고리즘\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\yungj\Desktop\과제\게임 알고리즘\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\yungj\Desktop\과제\게임 알고리즘\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\yungj\Desktop\과제\게임 알고리즘\Calculator\Calculator\obj\Debug\Calculator.pdb

@@ -1,0 +1,7 @@
+C:\Users\yungj\Desktop\과제\게임 알고리즘\CopyPrograming\CopyPrograming\bin\Debug\CopyPrograming.exe.config
+C:\Users\yungj\Desktop\과제\게임 알고리즘\CopyPrograming\CopyPrograming\bin\Debug\CopyPrograming.exe
+C:\Users\yungj\Desktop\과제\게임 알고리즘\CopyPrograming\CopyPrograming\bin\Debug\CopyPrograming.pdb
+C:\Users\yungj\Desktop\과제\게임 알고리즘\CopyPrograming\CopyPrograming\obj\Debug\CopyPrograming.csprojAssemblyReference.cache
+C:\Users\yungj\Desktop\과제\게임 알고리즘\CopyPrograming\CopyPrograming\obj\Debug\CopyPrograming.csproj.CoreCompileInputs.cache
+C:\Users\yungj\Desktop\과제\게임 알고리즘\CopyPrograming\CopyPrograming\obj\Debug\CopyPrograming.exe
+C:\Users\yungj\Desktop\과제\게임 알고리즘\CopyPrograming\CopyPrograming\obj\Debug\CopyPrograming.pdb

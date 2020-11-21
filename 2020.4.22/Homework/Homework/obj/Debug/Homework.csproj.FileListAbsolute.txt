@@ -1,0 +1,7 @@
+C:\Users\yungj\Desktop\과제\게임 알고리즘\Homework\Homework\bin\Debug\Homework.exe.config
+C:\Users\yungj\Desktop\과제\게임 알고리즘\Homework\Homework\bin\Debug\Homework.exe
+C:\Users\yungj\Desktop\과제\게임 알고리즘\Homework\Homework\bin\Debug\Homework.pdb
+C:\Users\yungj\Desktop\과제\게임 알고리즘\Homework\Homework\obj\Debug\Homework.csprojAssemblyReference.cache
+C:\Users\yungj\Desktop\과제\게임 알고리즘\Homework\Homework\obj\Debug\Homework.csproj.CoreCompileInputs.cache
+C:\Users\yungj\Desktop\과제\게임 알고리즘\Homework\Homework\obj\Debug\Homework.exe
+C:\Users\yungj\Desktop\과제\게임 알고리즘\Homework\Homework\obj\Debug\Homework.pdb
