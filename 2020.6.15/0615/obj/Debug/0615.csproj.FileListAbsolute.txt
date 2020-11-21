@@ -1,0 +1,14 @@
+C:\Users\yungj\source\repos\0615\0615\bin\Debug\0615.exe.config
+C:\Users\yungj\source\repos\0615\0615\bin\Debug\0615.exe
+C:\Users\yungj\source\repos\0615\0615\bin\Debug\0615.pdb
+C:\Users\yungj\source\repos\0615\0615\obj\Debug\0615.csprojAssemblyReference.cache
+C:\Users\yungj\source\repos\0615\0615\obj\Debug\0615.csproj.CoreCompileInputs.cache
+C:\Users\yungj\source\repos\0615\0615\obj\Debug\0615.exe
+C:\Users\yungj\source\repos\0615\0615\obj\Debug\0615.pdb
+C:\Users\yungj\Desktop\과제\게임 알고리즘\0615\0615\bin\Debug\0615.exe.config
+C:\Users\yungj\Desktop\과제\게임 알고리즘\0615\0615\bin\Debug\0615.exe
+C:\Users\yungj\Desktop\과제\게임 알고리즘\0615\0615\bin\Debug\0615.pdb
+C:\Users\yungj\Desktop\과제\게임 알고리즘\0615\0615\obj\Debug\0615.csprojAssemblyReference.cache
+C:\Users\yungj\Desktop\과제\게임 알고리즘\0615\0615\obj\Debug\0615.csproj.CoreCompileInputs.cache
+C:\Users\yungj\Desktop\과제\게임 알고리즘\0615\0615\obj\Debug\0615.exe
+C:\Users\yungj\Desktop\과제\게임 알고리즘\0615\0615\obj\Debug\0615.pdb

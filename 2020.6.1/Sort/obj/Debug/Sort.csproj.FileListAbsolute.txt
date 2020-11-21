@@ -1,0 +1,20 @@
+D:\박영진\Sort\Sort\bin\Debug\Sort.exe.config
+D:\박영진\Sort\Sort\bin\Debug\Sort.exe
+D:\박영진\Sort\Sort\bin\Debug\Sort.pdb
+D:\박영진\Sort\Sort\obj\Debug\Sort.csprojAssemblyReference.cache
+D:\박영진\Sort\Sort\obj\Debug\Sort.exe
+D:\박영진\Sort\Sort\obj\Debug\Sort.pdb
+C:\Users\yungj\Desktop\Sort\Sort\bin\Debug\Sort.exe.config
+C:\Users\yungj\Desktop\Sort\Sort\bin\Debug\Sort.exe
+C:\Users\yungj\Desktop\Sort\Sort\bin\Debug\Sort.pdb
+C:\Users\yungj\Desktop\Sort\Sort\obj\Debug\Sort.csprojAssemblyReference.cache
+C:\Users\yungj\Desktop\Sort\Sort\obj\Debug\Sort.csproj.CoreCompileInputs.cache
+C:\Users\yungj\Desktop\Sort\Sort\obj\Debug\Sort.exe
+C:\Users\yungj\Desktop\Sort\Sort\obj\Debug\Sort.pdb
+C:\Users\yungj\Desktop\과제\게임 알고리즘\6.1\Sort\bin\Debug\Sort.exe.config
+C:\Users\yungj\Desktop\과제\게임 알고리즘\6.1\Sort\bin\Debug\Sort.exe
+C:\Users\yungj\Desktop\과제\게임 알고리즘\6.1\Sort\bin\Debug\Sort.pdb
+C:\Users\yungj\Desktop\과제\게임 알고리즘\6.1\Sort\obj\Debug\Sort.csprojAssemblyReference.cache
+C:\Users\yungj\Desktop\과제\게임 알고리즘\6.1\Sort\obj\Debug\Sort.csproj.CoreCompileInputs.cache
+C:\Users\yungj\Desktop\과제\게임 알고리즘\6.1\Sort\obj\Debug\Sort.exe
+C:\Users\yungj\Desktop\과제\게임 알고리즘\6.1\Sort\obj\Debug\Sort.pdb

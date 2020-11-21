@@ -1,0 +1,7 @@
+C:\Users\yungj\Desktop\과제\게임 알고리즘\0713\0713\bin\Debug\0713.exe.config
+C:\Users\yungj\Desktop\과제\게임 알고리즘\0713\0713\bin\Debug\0713.exe
+C:\Users\yungj\Desktop\과제\게임 알고리즘\0713\0713\bin\Debug\0713.pdb
+C:\Users\yungj\Desktop\과제\게임 알고리즘\0713\0713\obj\Debug\0713.csproj.CoreCompileInputs.cache
+C:\Users\yungj\Desktop\과제\게임 알고리즘\0713\0713\obj\Debug\0713.exe
+C:\Users\yungj\Desktop\과제\게임 알고리즘\0713\0713\obj\Debug\0713.pdb
+C:\Users\yungj\Desktop\과제\게임 알고리즘\0713\0713\obj\Debug\0713.csprojAssemblyReference.cache
